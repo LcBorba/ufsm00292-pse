@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1730155561 source:c:\users\lborb\onedrive\documentos\exercicio4\main.c
+	<stdio.h>
+	<stdbool.h>
+	"pt.h"
+
+1159775576 c:\users\lborb\onedrive\documentos\exercicio4\pt.h
+	"lc.h"
+
+1109241419 c:\users\lborb\onedrive\documentos\exercicio4\lc.h
+	"lc-switch.h"
+
+1149334183 c:\users\lborb\onedrive\documentos\exercicio4\lc-switch.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730155527 source:c:\users\lborb\onedrive\documentos\exercicio3\main.c
+	<stdio.h>
+	<stdbool.h>
+
